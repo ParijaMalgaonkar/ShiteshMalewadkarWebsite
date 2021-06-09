@@ -1,0 +1,9 @@
+.parent {
+    background-color: black;
+    height: 50px;
+    width: 100vw;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    top: 0;
+}
